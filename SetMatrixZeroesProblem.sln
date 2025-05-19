@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetMatrixZeroes", "SetMatrixZeroes\SetMatrixZeroes.csproj", "{3F860CE0-C967-426B-B09E-14A50BE40C2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetMatrixZeroesApp", "SetMatrixZeroesApp\SetMatrixZeroesApp.csproj", "{F6938D6A-29CA-472E-B2FF-5DF84AB52552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests", "tests\tests.csproj", "{153C9B70-3B7F-47DB-9C54-4907E2E202CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F860CE0-C967-426B-B09E-14A50BE40C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F860CE0-C967-426B-B09E-14A50BE40C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F860CE0-C967-426B-B09E-14A50BE40C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F860CE0-C967-426B-B09E-14A50BE40C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6938D6A-29CA-472E-B2FF-5DF84AB52552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6938D6A-29CA-472E-B2FF-5DF84AB52552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6938D6A-29CA-472E-B2FF-5DF84AB52552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6938D6A-29CA-472E-B2FF-5DF84AB52552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{153C9B70-3B7F-47DB-9C54-4907E2E202CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153C9B70-3B7F-47DB-9C54-4907E2E202CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153C9B70-3B7F-47DB-9C54-4907E2E202CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153C9B70-3B7F-47DB-9C54-4907E2E202CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Huawei\Desktop\14.03 veri_yapıları_lab\SetMatrixZeroesProblem\SetMatrixZeroes\bin\Debug\net8.0\SetMatrixZeroes.deps.json
+C:\Users\Huawei\Desktop\14.03 veri_yapıları_lab\SetMatrixZeroesProblem\SetMatrixZeroes\bin\Debug\net8.0\SetMatrixZeroes.dll
+C:\Users\Huawei\Desktop\14.03 veri_yapıları_lab\SetMatrixZeroesProblem\SetMatrixZeroes\bin\Debug\net8.0\SetMatrixZeroes.pdb
+C:\Users\Huawei\Desktop\14.03 veri_yapıları_lab\SetMatrixZeroesProblem\SetMatrixZeroes\obj\Debug\net8.0\SetMatrixZeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\Desktop\14.03 veri_yapıları_lab\SetMatrixZeroesProblem\SetMatrixZeroes\obj\Debug\net8.0\SetMatrixZeroes.AssemblyInfoInputs.cache
+C:\Users\Huawei\Desktop\14.03 veri_yapıları_lab\SetMatrixZeroesProblem\SetMatrixZeroes\obj\Debug\net8.0\SetMatrixZeroes.AssemblyInfo.cs
+C:\Users\Huawei\Desktop\14.03 veri_yapıları_lab\SetMatrixZeroesProblem\SetMatrixZeroes\obj\Debug\net8.0\SetMatrixZeroes.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Desktop\14.03 veri_yapıları_lab\SetMatrixZeroesProblem\SetMatrixZeroes\obj\Debug\net8.0\SetMatrixZeroes.dll
+C:\Users\Huawei\Desktop\14.03 veri_yapıları_lab\SetMatrixZeroesProblem\SetMatrixZeroes\obj\Debug\net8.0\refint\SetMatrixZeroes.dll
+C:\Users\Huawei\Desktop\14.03 veri_yapıları_lab\SetMatrixZeroesProblem\SetMatrixZeroes\obj\Debug\net8.0\SetMatrixZeroes.pdb
+C:\Users\Huawei\Desktop\14.03 veri_yapıları_lab\SetMatrixZeroesProblem\SetMatrixZeroes\obj\Debug\net8.0\ref\SetMatrixZeroes.dll
